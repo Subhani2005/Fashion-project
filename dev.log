@@ -1,0 +1,17 @@
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m276[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m2:27:51 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/home/Hero.jsx[22m
+[2m2:27:52 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/layout.css[22m
+[2m2:31:21 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m2:31:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m2:31:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/home/NewSeason.jsx[22m
+[2m2:31:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/StoreContext.jsx, /src/pages/About.jsx, /src/components/ui/QuickView.jsx, /src/pages/Product.jsx, /src/components/layout/SearchOverlay.jsx, /src/pages/Collection.jsx, /src/components/home/NewSeason.jsx, /src/components/home/Hero.jsx, /src/components/home/CategoryIndex.jsx, /src/components/home/Featured.jsx, /src/components/home/EditorialStory.jsx, /src/components/home/HorizontalGallery.jsx[22m
+[2m2:31:59 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/StoreContext.jsx[22m Could not Fast Refresh ("useStore" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:31:59 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/StoreContext.jsx[22m
+[2m2:35:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/StoreContext.jsx, /src/pages/About.jsx, /src/components/ui/QuickView.jsx, /src/pages/Product.jsx, /src/components/layout/SearchOverlay.jsx, /src/pages/Collection.jsx, /src/components/home/NewSeason.jsx, /src/components/home/Hero.jsx, /src/components/home/CategoryIndex.jsx, /src/components/home/Featured.jsx, /src/components/home/EditorialStory.jsx, /src/components/home/HorizontalGallery.jsx[22m
+[2m2:35:36 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/StoreContext.jsx[22m Could not Fast Refresh ("useStore" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m2:35:36 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/StoreContext.jsx[22m
+[2m2:35:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/home.css[22m
+[2m2:35:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/pages.css[22m
